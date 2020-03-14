@@ -1,0 +1,8 @@
+{
+    "fc":[
+        {"ID": "jhemcu-f7", "Name":"JHEMCU F7"}
+    ],
+    "recv": [
+        {"ID":"frsky-xm-plus","Name":"FrSky XM+"}
+    ]
+}

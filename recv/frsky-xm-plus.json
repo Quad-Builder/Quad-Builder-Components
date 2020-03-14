@@ -1,0 +1,1 @@
+{"ID":"frsky-xm-plus","Name":"FrSky XM+","Type":"recv","Width":100,"Height":175,"Image":"frsky-xm-plus.png","Pins":[{"ID":0,"Type":"SBUS-OUT","X":0.44571428571428573,"Y":0.09967320261437909},{"ID":1,"Type":"5V-IN","X":0.6371428571428571,"Y":0.09640522875816994},{"ID":2,"Type":"GND-OUT","X":0.8285714285714286,"Y":0.10130718954248366}]}
