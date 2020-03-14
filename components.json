@@ -1,4 +1,7 @@
 {
+    "cam":[
+        {"ID": "runcam-racer-nano-2", "Name": "RunCam Racer Nano 2"}
+    ],
     "fc":[
         {"ID": "jhemcu-f7", "Name":"JHEMCU F7"}
     ],
